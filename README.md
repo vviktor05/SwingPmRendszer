@@ -1,6 +1,8 @@
 # Swing Projektmenedzsment rendszer
 Első összetettebb Swing projektem.
 
+A program NetBeans IDE-ben készült.
+
 ## Teszt adat:
 
 Dolgozó ID: 8 jelszó: jelszo
