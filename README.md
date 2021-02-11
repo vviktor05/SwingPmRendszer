@@ -1,5 +1,4 @@
 # Swing Projektmenedzsment rendszer
-Első összetettebb Swing projektem.
 
 A program NetBeans IDE-ben készült.
 
