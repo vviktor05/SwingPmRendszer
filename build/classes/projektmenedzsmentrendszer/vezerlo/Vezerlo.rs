@@ -1,2 +1,0 @@
-projektmenedzsmentrendszer.vezerlo.Vezerlo
-projektmenedzsmentrendszer.vezerlo.BelepesiSzint

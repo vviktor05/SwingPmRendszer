@@ -2,15 +2,15 @@ package projektmenedzsmentrendszer.modell;
 
 interface Adatbazis {
     String IP_LOCAL = "localhost:3306",
-           IP_REMOTE = "binbfohspbyte7cyvf5q-mysql.services.clever-cloud.com:3306";
+           IP_REMOTE = "bgm53sobqbpn9ndkzrww-mysql.services.clever-cloud.com:3306";
 
     String LOCAL_DB_NAME = "pmrendszer",
-           REMOTE_DB_NAME = "binbfohspbyte7cyvf5q";
+           REMOTE_DB_NAME = "bgm53sobqbpn9ndkzrww";
     
     String DRIVER = "com.mysql.cj.jdbc.Driver",
            URL = "jdbc:mysql://" + IP_REMOTE + "/" + REMOTE_DB_NAME,
-           USER = "ukewcasjgzppqauf",
-           PASSWORD = "1jMqBpU6nFxPFSyXp6JL";
+           USER = "u8aq1jcrejebrmjo",
+           PASSWORD = "QFgfSqKan3WFR6YDdLxv";
 
     String SQL_AKTIV_PROJEKTEK = "SELECT * FROM projekt WHERE statusz = 3";
     String SQL_OSSZES_PROJEKT = "SELECT * FROM projekt";
