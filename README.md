@@ -4,12 +4,11 @@ A program NetBeans IDE-ben készült.
 
 ## Teszt adat:
 
-Dolgozó ID: 8 jelszó: jelszo
+Dolgozó ID: 8 jelszó: jelszo, Beosztás: Projektvezető
 
 ## Indítás:
 
 A dist mappában található PmRendszer.jar fájlra kattintva indíthatjuk el a programot. Az indító fájl mellett kötelező ott lennie a lib könyvtárnak, ez tartalmazza a függőségeket.
-
 
 ## Dokumentáció:
 
